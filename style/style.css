@@ -2,6 +2,9 @@
   margin: 20px;
   test-alige: center;
 }
+h1{
+  text-align: center;
+}
 
 .search-bar input {
   width: 75%;
